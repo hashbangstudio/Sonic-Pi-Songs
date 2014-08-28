@@ -1,4 +1,4 @@
 Sonic-Pi-Songs
 ==============
 
-Sonic Pi scrips of songs
+Sonic Pi scripts of songs
